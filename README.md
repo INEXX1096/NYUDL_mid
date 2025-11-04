@@ -1,2 +1,3 @@
-# NYUDL_mid
+# NYU Deep Learning Midterm Kaggle Competetion
+
 Deeplearning midterm 
