@@ -14,4 +14,4 @@
     `./Checkpoint/checkpoint-900/`
 
 3.  **Run Inference:**
-    * The `DL_Mid.ipynb` notebook is configured to automatically load the model from the `./Checkpoint/checkpoint-900/` path.
+    * The `DL_Mid.ipynb` and `inference.ipynb` notebooks are configured to automatically load the model from the `./Checkpoint/checkpoint-900/` path.
